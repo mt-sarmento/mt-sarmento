@@ -1,1 +1,1 @@
-![.](MtReginaldo/dinos.gif)
+![.](dinos.gif)
