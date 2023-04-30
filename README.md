@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="dinos.gif" />
+  <img src="imgDino.gif" />
 </p>
