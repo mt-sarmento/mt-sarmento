@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="imgD.gif" />
+  <img src="ImgD.gif"/>
 </p>
