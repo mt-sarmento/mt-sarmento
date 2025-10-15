@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ImgD.gif" alt="Animated banner" width="600"/>
+  <img src="img.gif" alt="Animated banner" width="600"/>
 </p>
 
 ## 👋 Olá, me chamo Mateus Sarmento!
