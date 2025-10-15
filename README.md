@@ -4,9 +4,13 @@
 
 ## 👋 Olá, me chamo Mateus Sarmento!
 
-Formado em **Sistemas de Informação**, com o TCC voltado para **Inteligência Artificial e Visão Computacional**, entrei na área de tecnologia por conta do meu interesse por videogames. Atualmente, trabalho com o desenvolvimento de relatórios e automações utilizando **Delphi**, **comandos SQL**, **bancos de dados Firebird** e **PostgreSQL**, sempre buscando clareza e eficiência nas soluções.  
+<p align="justify">
+Formado em <strong>Sistemas de Informação</strong>, com o TCC voltado para <strong>Inteligência Artificial e Visão Computacional</strong>, entrei na área de tecnologia por conta do meu interesse por videogames. Atualmente, trabalho com o desenvolvimento de relatórios e automações utilizando <strong>Delphi</strong>, <strong>comandos SQL</strong>, <strong>bancos de dados Firebird</strong> e <strong>PostgreSQL</strong>, sempre buscando clareza e eficiência nas soluções.
+</p>
 
+<p align="justify">
 Aqui organizo alguns dos códigos que desenvolvi na faculdade, em projetos pessoais e também em cursos que estou realizando, como forma de aprendizado e aprimoramento contínuo.
+</p>
 
 ### 🛠️ Tecnologias e ferramentas
 ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
