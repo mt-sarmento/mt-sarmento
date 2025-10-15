@@ -4,7 +4,7 @@
 
 ## 👋 Olá, me chamo Mateus Sarmento!
 
-Formado **Bacharel em Sistemas de Informação**, com meu TCC focado em IA e visão computacional, e atualmente trabalhando como auxiliar e desenvolvedor Delphi, com experiência em **banco de dados Firebird** e **PostgreSQL**, com foco em automação de rotinas e otimização de processos. Trabalho principalmente no desenvolvimento de sistemas corporativos e relatórios utilizando **comandos SQL** **FastReport**, buscando sempre clareza e eficiência nas soluções.
+Formado em **Sistemas de Informação**, com o TCC voltado para **Inteligência Artificial e Visão Computacional**, atualmente trabalho com o desenvolvimento de relatórios e automações utilizando **Delphi**, **comandos SQL**, **bancos de dados Firebird** e **PostgreSQL**, sempre buscando clareza e eficiência nas soluções. Aqui organizo alguns dos códigos que desenvolvi na faculdade, em projetos pessoais e também em cursos que estou realizando, como forma de aprendizado e aprimoramento contínuo.
 
 ### 🛠️ Tecnologias e ferramentas
 ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
